@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sougata.</h1>
-<h3 align="center">An asipring frontend developer from India.</h3>
+<h3 align="center">An aspiring frontend developer from India.</h3>
 
 - 🔭 I’m currently working on [DevOverFlow](https://github.com/sougatadas9874/DevOverFlow)
 
