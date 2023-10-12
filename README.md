@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **sougatadas9874@gmail.com**
 
-- ⚡ Fun fact **I**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
