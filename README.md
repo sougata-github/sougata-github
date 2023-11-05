@@ -17,7 +17,7 @@
 
 ## 🌟 Most Used Weapons 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sougatadas9874_icons=true&locale=en&layout=compact&theme=tokyonight)
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=sougatadas9874&theme=react-dark)
+
 
 ## Connect with me:
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sougata-das-680a97287/)
