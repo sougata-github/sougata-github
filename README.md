@@ -1,4 +1,5 @@
 # Hi, I'm Sougata! 
+<h3>An aspiring frontend developer from India.</h3>
 
 🌱 Learning **React.js & Next.js**
 
