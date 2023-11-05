@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Sougata.</h1>
-<h3 align="center">An aspiring frontend developer from India.</h3>
+# Hi, I'm Sougata! 
 
-- 🔭 I’m currently working on [DevOverFlow](https://github.com/sougatadas9874/DevOverFlow)
-
-- 🌱 I’m currently learning **ReactJS & NextJS**
-
-- 📫 How to reach me **sougatadas9874@gmail.com**
+🌱 I’m currently learning **React.js & Next.js**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sougata_9874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sougata_9874" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sougata-das-680a97287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sougata-das-680a97287" height="30" width="40" /></a>
-</p>
+💬 Ask me about **Web Development**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+📫 How to reach me: **[Twitter](https://twitter.com/sougata_9874)**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sougatadas9874&show_icons=true&locale=en&layout=compact" alt="sougatadas9874" /></p>
+## My Skills - Technologies I use
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,,tailwind,nodejs,git,github,vercel)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sougatadas9874&" alt="sougatadas9874" /></p>
+
+## 🏆 Github Status 
+<img  src="https://github-stats-lemon.vercel.app/api?username=sougatadas9874&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sougatadas9874&theme=tokyonight" width="48%" >
+
+## 🌟 Most Used Weapons 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sougatadas9874_icons=true&locale=en&layout=compact&theme=tokyonight)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=sougatadas9874&theme=react-dark)
+
+## Connect with me:
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sougata-das-680a97287/)
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sougata_9874)
