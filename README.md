@@ -1,11 +1,11 @@
 # Hi, I'm Sougata! 
 <h3>An aspiring frontend developer from India.</h3>
 
-🌱 Learning **React.js & Next.js**
+🌱 Learning **React.js & Next.js**.
 
-🔭 I’m currently working on [DevOverFlow](https://github.com/sougatadas9874/DevOverFlow)
+🔭 I’m currently working on [DevOverFlow](https://github.com/sougatadas9874/DevOverFlow).
 
-💬 Ask me about **Web Development**
+💬 Ask me about **Web Development**.
 
 ## My Skills - Technologies I use
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,,tailwind,nodejs,git,github,vercel)
@@ -17,7 +17,7 @@
 
 ## 🌟 Most Used Weapons 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sougatadas9874&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=adrianhajdin&theme=react-dark)
+
 
 
 ## Connect with me:
