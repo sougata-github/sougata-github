@@ -7,10 +7,14 @@
 
 💬 Ask me about **Web Development**.
 
-## My Skills - Technoligies I use
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,java)
-## Tools
+## My Skills
+
+### Frontend Development
+![Frontend Development](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,node)
+### Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,vercel)
+### Additional
+![Additional](https://skillicons.dev/icons?i=java,c)
 
 
 
