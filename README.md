@@ -10,7 +10,7 @@
 ## My Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,java)
 ## Tools
-![My Skills](git,github,vercel)
+![Tools](git,github,vercel)
 
 
 
