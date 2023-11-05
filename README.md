@@ -14,7 +14,7 @@
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,vercel)
 ### Additional
-![Additional](https://skillicons.dev/icons?i=java,c)
+![Additional](https://skillicons.dev/icons?i=java)
 
 
 
