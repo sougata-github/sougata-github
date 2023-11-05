@@ -2,10 +2,9 @@
 
 🌱 I’m currently learning **React.js & Next.js**
 
+🔭 I’m currently working on [DevOverFlow](https://github.com/sougatadas9874/DevOverFlow)
 
 💬 Ask me about **Web Development**
-
-📫 How to reach me: **[Twitter](https://twitter.com/sougata_9874)**
 
 ## My Skills - Technologies I use
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,,tailwind,nodejs,git,github,vercel)
