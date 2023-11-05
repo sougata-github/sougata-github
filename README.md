@@ -1,9 +1,9 @@
 # Hi 👋, I'm Sougata! 
 <h3>An aspiring frontend developer from India.</h3>
 
-🌱 Learning **React.js & Next.js**.
+🌱 I'm currently Learning **React.js & Next.js**.
 
-💻 I’m currently working on [DevOverFlow](https://github.com/sougatadas9874/DevOverFlow).
+💻 Working on [DevOverFlow](https://github.com/sougatadas9874/DevOverFlow).
 
 💬 Ask me about **Web Development**.
 
