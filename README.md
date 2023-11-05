@@ -10,7 +10,9 @@
 ## My Skills
 
 ### Frontend Development
-![Frontend Development](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,node)
+![Frontend Development](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react)
+### Backend Development
+![Backend Development](https://skillicons.dev/icons?i=nodejs,monogdb)
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,vercel)
 ### Additional
