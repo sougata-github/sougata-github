@@ -13,7 +13,9 @@
 
 ## 🏆 Github Status 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sougatadas9874&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Sougata&theme=tokyonight" width="48%" >
+<br/>
+<br/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sougatadas9874&theme=tokyonight" width="48%" >
 
 
 
