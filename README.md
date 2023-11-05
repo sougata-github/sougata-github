@@ -3,7 +3,7 @@
 
 🌱 Learning **React.js & Next.js**.
 
-🔭 I’m currently working on [DevOverFlow](https://github.com/sougatadas9874/DevOverFlow).
+💻 I’m currently working on [DevOverFlow](https://github.com/sougatadas9874/DevOverFlow).
 
 💬 Ask me about **Web Development**.
 
