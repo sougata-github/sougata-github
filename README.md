@@ -8,7 +8,7 @@
 💬 Ask me about **Web Development**.
 
 ## My Skills - Technologies I use
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,git,github,vercel)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,git,github,vercel)
 
 
 ## 🏆 Github Status 
