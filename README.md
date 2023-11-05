@@ -12,11 +12,11 @@
 
 
 ## 🏆 Github Status 
-<img  src="https://github-stats-lemon.vercel.app/api?username=sougatadas9874&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
-
-
-## 🌟 Most Used Weapons 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sougatadas9874&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Sougata&theme=tokyonight" width="48%" >
+
+
+
 
 
 
