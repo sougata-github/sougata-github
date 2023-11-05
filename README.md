@@ -1,6 +1,6 @@
 # Hi, I'm Sougata! 
 
-🌱 I’m currently learning **React.js & Next.js**
+🌱 Learning **React.js & Next.js**
 
 🔭 I’m currently working on [DevOverFlow](https://github.com/sougatadas9874/DevOverFlow)
 
