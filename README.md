@@ -25,6 +25,6 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sougatadas9874&theme=tokyonight" width="48%" >
 
 ## Connect with me:
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sougata-das-680a97287/)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sougata-linkdin)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sougata_x)
 
