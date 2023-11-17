@@ -26,5 +26,5 @@
 
 ## Connect with me:
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sougata-das-680a97287/)
-[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sougata_9874)
+[![twitter](https://skillicons.dev/icons?i=twitter)]([https://twitter.com/sougata_9874](https://twitter.com/sougata_x)
 
