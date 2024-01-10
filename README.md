@@ -20,10 +20,6 @@
 
 ## 🏆 Github Status 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sougata-github&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-<br/>
-<br/>
-
-
 ## Connect with me:
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sougata-linkdin)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sougata_x)
