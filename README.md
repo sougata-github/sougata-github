@@ -22,7 +22,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sougata-github&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 <br/>
 <br/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sougata-github&theme=tokyonight" width="48%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sougata-github&theme=tokyonight" width="48%" />
 
 ## Connect with me:
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sougata-linkdin)
