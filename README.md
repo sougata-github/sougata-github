@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sougata-github&theme=tokyonight-duo)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sougata-github&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 
 ## Connect with me:
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sougata-linkdin)
