@@ -3,7 +3,7 @@
 
 🌱 I'm currently learning **React.js & Next.js**.
 
-💻 Working on [Evently](https://github.com/sougata-github/Evently).
+💻 Working on [Notion-Clone](https://github.com/sougata-github/Notion-Clone).
 
 💬 Ask me about **Web Development**.
 
