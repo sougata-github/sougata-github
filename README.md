@@ -20,6 +20,7 @@
 
 ## 🏆 Github Status 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sougata-github&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sougata-github&theme=tokyonight-duo)](https://git.io/streak-stats)
 ## Connect with me:
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sougata-linkdin)
