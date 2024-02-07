@@ -3,7 +3,7 @@
 
 🌱 I'm currently learning <b>ReactJS</b> & <b>NextJS</b>.
 
-💻 Working on [Discord-Clone](https://github.com/sougata-github/Discord-Clone).
+💻 Working on [Team Chat Application](https://github.com/sougata-github/Discord-Clone).
 
 💬 Ask me about **Web Development**.
 
