@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sougata! 
 <h3>An aspiring frontend developer from India.</h3>
 
-🌱 I'm currently learning <em>ReactJS</em> & <em>NextJS</em>.
+🌱 I'm currently learning <b>ReactJS</b> & <b>NextJS</b>.
 
 💻 Working on [Notion-Clone](https://github.com/sougata-github/Notion-Clone).
 
