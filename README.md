@@ -3,7 +3,7 @@
 
 🌱 I'm currently learning <b>ReactJS</b> & <b>NextJS</b>.
 
-💻 Working on [Notion-Clone](https://github.com/sougata-github/Notion-Clone).
+💻 Working on [Discord-Clone](https://github.com/sougata-github/Discord-Clone).
 
 💬 Ask me about **Web Development**.
 
