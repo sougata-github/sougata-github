@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sougata! 
 <h2>An aspiring frontend developer from India.</h2>
 
-🌱 I'm currently learning <b>ReactJS</b> & <b>NextJS</b>.
+🌱 I'm currently learning <b>NextJS</b>.
 
 💻 Working on [Team Chat](https://github.com/sougata-github/Team-Chat).
 
