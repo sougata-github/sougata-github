@@ -10,7 +10,7 @@
 ## My Skills
 
 ### Technologies I use
-![Frontend Development](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,framer-motion,nodejs)
+![Frontend Development](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,framermotion,nodejs)
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,vercel)
 ### Additional
