@@ -3,7 +3,7 @@
 
 🌱 I'm currently learning <b>NextJS</b>.
 
-💻 Working on [Team Chat](https://github.com/sougata-github/Team-Chat).
+💻 Working on [iPhone-15-pro-landing-page](https://github.com/sougata-github/iphone-15-pro-landing-page).
 
 💬 Ask me about **Web Development**.
 
