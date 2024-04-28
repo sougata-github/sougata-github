@@ -3,7 +3,7 @@
 
 🌱 I'm currently learning <b>NextJS</b>.
 
-💻 Working on [iPhone-15-pro-landing-page](https://github.com/sougata-github/iphone-15-pro-landing-page).
+💻 Working on [Figma clone](https://github.com/sougata-github/figma-clone).
 
 💬 Ask me about **Web Development**.
 
