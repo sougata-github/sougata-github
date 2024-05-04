@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sougata! 
-<h2>An aspiring frontend developer from India.</h2>
+<h2>Frontend developer from India.</h2>
 
 🌱 I'm currently learning <b>NextJS</b>.
 
