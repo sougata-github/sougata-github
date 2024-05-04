@@ -13,9 +13,6 @@
 ![Frontend Development](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,nodejs,mongodb,mysql,prisma)
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,vercel)
-### Additional
-![Additional](https://skillicons.dev/icons?i=java)
-
 
 
 ## 🏆 Github Status 
