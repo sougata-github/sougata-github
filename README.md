@@ -3,7 +3,7 @@
 
 🌱 I'm currently learning <b>NextJS</b>.
 
-💻 Working on [zoom-clone](https://github.com/sougata-github/zoom-clone).
+💻 Working on [My Portfolio](https://github.com/sougata-github/my-portfolio).
 
 💬 Ask me about **Web Development**.
 
