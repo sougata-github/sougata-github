@@ -15,4 +15,4 @@
 ![Tools](https://skillicons.dev/icons?i=git,github,vercel)
 
 ### Stats
-(https://github-readme-stats.vercel.app/api/top-langs/?username=sougata-github&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Most used languages](https://github-readme-stats.vercel.app/api?username=sougata-github&show_icons=true&theme=tokyonight)
