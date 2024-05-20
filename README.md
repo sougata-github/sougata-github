@@ -15,7 +15,7 @@
 ![Tools](https://skillicons.dev/icons?i=git,github,vercel)
 
 
-## 🏆 Github Status 
+/*## 🏆 Github Status 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sougata-github&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sougata-github&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sougata-github&theme=tokyonight-duo)](https://git.io/streak-stats)*/
