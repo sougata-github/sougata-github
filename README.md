@@ -13,4 +13,5 @@
 ![Frontend Development](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,nodejs,mongodb,mysql,prisma)
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,vercel)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sougata-github&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
