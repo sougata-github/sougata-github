@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sougata! 
 <h2>Frontend developer from India.</h2>
 
-🌱 I'm currently learning <b>NextJS</b>.
+🌱 I'm currently building projects.
 
 💬 Ask me about **Web Development**.
 
