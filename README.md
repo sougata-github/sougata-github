@@ -3,8 +3,6 @@
 
 🌱 I'm currently building projects.
 
-💬 Ask me about **Web Development**.
-
 ## My Skills
 
 ### Technologies I use
