@@ -6,7 +6,7 @@
 ## My Skills
 
 ### Technologies I use
-![Frontend Development](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,nodejs,trpc,postgresql,prisma)
+![Frontend Development](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,nodejs,tRPC,postgresql,prisma)
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,vercel)
 
