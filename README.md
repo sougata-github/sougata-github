@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sougata! 
-<h2>Frontend developer from India.</h2>
+<h2>React developer based in India.</h2>
 
 🌱 I'm currently building projects.
 
